@@ -3,22 +3,22 @@ webpackJsonp([2],{
 /***/ 0:
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports = __webpack_require__(318);
+	module.exports = __webpack_require__(185);
 
 
 /***/ },
 
-/***/ 318:
+/***/ 185:
 /***/ function(module, exports, __webpack_require__) {
 
 	'use strict';
 	
 	/* eslint react/no-multi-comp: 0 */
-	__webpack_require__(2);
+	__webpack_require__(!(function webpackMissingModule() { var e = new Error("Cannot find module \"rc-slider/assets/index.less\""); e.code = 'MODULE_NOT_FOUND'; throw e; }()));
 	
-	var React = __webpack_require__(3);
-	var ReactDOM = __webpack_require__(36);
-	var Slider = __webpack_require__(174);
+	var React = __webpack_require__(2);
+	var ReactDOM = __webpack_require__(33);
+	var Slider = __webpack_require__(!(function webpackMissingModule() { var e = new Error("Cannot find module \"rc-slider\""); e.code = 'MODULE_NOT_FOUND'; throw e; }()));
 	
 	var style = { width: 400, margin: 50 };
 	
